@@ -5,13 +5,13 @@ about:
   head: def214c
   archived: false
   latestVersion: "v1.9.0"
-  collectedAt: 2026-09-07T04:55:00Z
+  collectedAt: 2026-09-07T19:30:17Z
 timeline:
   created: 2022-05-26
   lastCommit: 2026-04-27
   lastRelease: 2026-04-27
 popularity:
-  star: 163
+  star: 162
   watcher: 1
   fork: 4
   release: 10
@@ -79,7 +79,7 @@ total:
   commit: 41
 ---
 path: /home/runner/.x-repo/github.com/ariasmn/ugm
-collectedAt: 2026-09-07T04:55:00Z
+collectedAt: 2026-09-07T19:30:17Z
 loc:
   Go:
     code: 633
@@ -100,7 +100,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:55:01+00:00
+  collectedAt: 2026-09-07T19:30:18+00:00
   platform:
     darwin/arm64:
       name:  null
