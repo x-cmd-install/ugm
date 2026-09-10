@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3485868,
       "digest": "sha256:e79424b29644dd9127c7d8015226f9c1f6cffeec0e9ed290b02dbb879889ad0a",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_freebsd_386"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3989676,
       "digest": "sha256:e77b4747e99d0afffde6ecc22185b9c376f6f4dd0f6dd8662aeb92c3ca9591be",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_freebsd_amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3866796,
       "digest": "sha256:2034fd8d0dc03077d6ba63eaee8ec637b65d3834951c9f38223cc66b2b6719ce",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_freebsd_arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3592354,
       "digest": "sha256:bc44930881cbee05fed5f37f2a511ddcd62334352f2f6c533a803fbecec4a3d1",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_linux_386"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4063394,
       "digest": "sha256:1a8edb601161e55e7ccb0121de938219ba0b2684bfcb08555a9d2853c8536b9e",
-      "download_count": 126,
+      "download_count": 129,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_linux_amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3997858,
       "digest": "sha256:1587d24e5321b6d2a54783059526336c5ae502467ec727919842ddc9e0de4e51",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_linux_arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3469493,
       "digest": "sha256:cefb1d997ba5d0af1058cee75fa9d5add6d9c476901f99bf457fec46eeffa99c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_netbsd_386"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3969205,
       "digest": "sha256:6ab5d6dbfc26b49e593f61b2fac2e0e214610370ccb84ec78b056dd553f6e714",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_netbsd_amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3866805,
       "digest": "sha256:156d99e78c4e043daa12209de5a120b92ca7046f825968b3c8d407a4ed7586f3",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_netbsd_arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3485979,
       "digest": "sha256:370edd6d5100b53ade33acca94695251fb1bb3ea8d907e4229ab2b2ba2d417fe",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_386"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3989789,
       "digest": "sha256:22d83547bf8e17015623164aacf6a6f2feb9938bb9a1e1a5335ba44e704c036f",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_amd64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3866909,
       "digest": "sha256:5df615c2f93c9b20d7f869d713e4aaa139862b43a9b8d861ca20c338c9763884",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_arm64"
