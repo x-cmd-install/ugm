@@ -4,7 +4,7 @@
 
 A terminal based UNIX user and group browser
 
-![ugm](https://repo.x-cmd.io/ugm.svg)
+![ugm](https://repo.x-cmd.io/ugm.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,24 @@ x install ugm
 - **最新版本**: `v1.9.0` (2026-04-27)
 - **最近提交**: 2026-04-27
 - **Release 含资产**: 13 个
-- **发布时间**: 2026-04-27T20:16:45Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/ariasmn/ugm/releases/download/v1.9.0/checksums.txt) | 1.0 KiB | `other` |
+| [ugm_1.9.0_freebsd_386](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_freebsd_386) | 3.3 MiB | `other` |
+| [ugm_1.9.0_freebsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_freebsd_amd64) | 3.8 MiB | `other` |
+| [ugm_1.9.0_freebsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_freebsd_arm64) | 3.7 MiB | `other` |
+| [ugm_1.9.0_linux_386](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_linux_386) | 3.4 MiB | `other` |
+| [ugm_1.9.0_linux_amd64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_linux_amd64) | 3.9 MiB | `native/linux/x64` |
+| [ugm_1.9.0_linux_arm64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_linux_arm64) | 3.8 MiB | `native/linux/arm64` |
+| [ugm_1.9.0_netbsd_386](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_netbsd_386) | 3.3 MiB | `other` |
+| [ugm_1.9.0_netbsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_netbsd_amd64) | 3.8 MiB | `other` |
+| [ugm_1.9.0_netbsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_netbsd_arm64) | 3.7 MiB | `other` |
+| [ugm_1.9.0_openbsd_386](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_386) | 3.3 MiB | `other` |
+| [ugm_1.9.0_openbsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_amd64) | 3.8 MiB | `other` |
+| [ugm_1.9.0_openbsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_arm64) | 3.7 MiB | `other` |
 
 ## 流行度
 
@@ -58,4 +75,4 @@ ugm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:55:19Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:00:26Z._
