@@ -1,0 +1,168 @@
+- repo: alpine_3_20
+  subrepo: community
+  srcname: ugm
+  binname: ugm
+  visiblename: ugm
+  version: 1.5.0
+  origversion: 1.5.0-r2
+  status: outdated
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: ugm
+  binname: ugm
+  visiblename: ugm
+  version: 1.6.0
+  origversion: 1.6.0-r5
+  status: outdated
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: ugm
+  binname: ugm
+  visiblename: ugm
+  version: 1.7.0
+  origversion: 1.7.0-r7
+  status: outdated
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ugm
+  binname: ugm
+  visiblename: ugm
+  version: 1.8.0
+  origversion: 1.8.0-r8
+  status: outdated
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: ugm
+  binname: ugm
+  visiblename: ugm
+  version: 1.9.0
+  origversion: 1.9.0-r2
+  status: newest
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: ugm
+  binname: ugm
+  visiblename: ugm
+  version: 1.9.0
+  origversion: 1.9.0-r2
+  status: newest
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: aur
+  srcname: ugm
+  binname: ugm
+  visiblename: ugm
+  version: 1.9.0
+  origversion: 1.9.0-1
+  status: newest
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - kemelzaidan@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: ugm-bin
+  binname: ugm-bin
+  visiblename: ugm-bin
+  version: 1.9.0
+  origversion: 1.9.0-1
+  status: newest
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: ugm
+  visiblename: ugm
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - oo-infty@outlook.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: ugm
+  visiblename: ugm
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: Terminal based UNIX user and group browser
+  maintainers:
+    - oosquare@outlook.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: ugm
+  visiblename: ugm
+  version: 1.7.0
+  origversion: null
+  status: outdated
+  summary: Terminal based UNIX user and group browser
+  maintainers:
+    - oosquare@outlook.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: ugm
+  visiblename: ugm
+  version: 1.8.0
+  origversion: null
+  status: outdated
+  summary: Terminal based UNIX user and group browser
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: ugm
+  visiblename: ugm
+  version: 1.9.0
+  origversion: null
+  status: newest
+  summary: Terminal based UNIX user and group browser
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: ugm
+  visiblename: ugm
+  version: 1.9.0
+  origversion: null
+  status: newest
+  summary: Terminal based UNIX user and group browser
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
