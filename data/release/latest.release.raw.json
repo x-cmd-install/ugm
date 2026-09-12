@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4063394,
       "digest": "sha256:1a8edb601161e55e7ccb0121de938219ba0b2684bfcb08555a9d2853c8536b9e",
-      "download_count": 134,
+      "download_count": 135,
       "created_at": "2026-04-27T20:16:43Z",
       "updated_at": "2026-04-27T20:16:44Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_linux_amd64"
