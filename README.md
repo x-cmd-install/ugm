@@ -44,12 +44,12 @@ Total: **633** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 1 | 0 | 0 | 0 | 0 | 2 |
-| 360d | 2025-09-18 | 1 | 0 | 0 | 0 | 0 | 2 |
-| last720d | 2024-09-23 | 3 | 0 | 0 | 0 | 1 | 4 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 1 | 0 | 0 | 0 | 0 | 2 |
+| 360d | 2025-09-19 | 1 | 0 | 0 | 0 | 0 | 2 |
+| last720d | 2024-09-24 | 3 | 0 | 0 | 0 | 1 | 4 |
 
 ## Release assets
 
@@ -69,15 +69,6 @@ Total: **633** lines of code across **18** files in the top 5 languages.
 | [ugm_1.9.0_openbsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_amd64) | 3.8 MiB | `other` |
 | [ugm_1.9.0_openbsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_arm64) | 3.7 MiB | `other` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/ugm). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.9.0` | ✅ latest |
-| Alpine edge | `1.9.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for ugm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ugm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +78,4 @@ Install metadata for ugm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:09:23Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:17:01Z._
