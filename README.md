@@ -14,11 +14,11 @@ x install ugm
 
 ## Code insight
 
-Total: **639** lines of code across **18** files in the top 5 languages.
+Total: **786** lines of code across **18** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 639 | 11 | 153 | 17 |
+| Go | 786 | 14 | 155 | 17 |
 | Markdown | 0 | 32 | 13 | 1 |
 
 ## Source
@@ -28,8 +28,8 @@ Total: **639** lines of code across **18** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.9.0` (2026-04-27)
-- **Last commit**: 2026-10-27
+- **Latest**: `v1.10.0` (2026-11-01)
+- **Last commit**: 2026-11-01
 - **Assets in release**: 13
 
 ## Popularity
@@ -38,45 +38,45 @@ Total: **639** lines of code across **18** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 1 · **Commits**: 42
+- **Releases**: 11 · **Merged PRs**: 3 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 1 · **Commits**: 44
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-02 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-03 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-05 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-11-06 | 1 | 1 | 0 | 0 | 0 | 3 |
-| last720d | 2024-11-11 | 3 | 1 | 0 | 0 | 1 | 5 |
+| 30d | 2026-10-03 | 1 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-03 | 1 | 3 | 0 | 0 | 0 | 3 |
+| 90d | 2026-08-04 | 1 | 3 | 0 | 0 | 0 | 3 |
+| last180d | 2026-05-06 | 1 | 3 | 0 | 0 | 0 | 3 |
+| 360d | 2025-11-07 | 2 | 3 | 0 | 0 | 0 | 5 |
+| last720d | 2024-11-12 | 4 | 3 | 0 | 0 | 1 | 7 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/ariasmn/ugm/releases/download/v1.9.0/checksums.txt) | 1.0 KiB | `other` |
-| [ugm_1.9.0_freebsd_386](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_freebsd_386) | 3.3 MiB | `other` |
-| [ugm_1.9.0_freebsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_freebsd_amd64) | 3.8 MiB | `other` |
-| [ugm_1.9.0_freebsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_freebsd_arm64) | 3.7 MiB | `other` |
-| [ugm_1.9.0_linux_386](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_linux_386) | 3.4 MiB | `other` |
-| [ugm_1.9.0_linux_amd64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_linux_amd64) | 3.9 MiB | `native/linux/x64` |
-| [ugm_1.9.0_linux_arm64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_linux_arm64) | 3.8 MiB | `native/linux/arm64` |
-| [ugm_1.9.0_netbsd_386](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_netbsd_386) | 3.3 MiB | `other` |
-| [ugm_1.9.0_netbsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_netbsd_amd64) | 3.8 MiB | `other` |
-| [ugm_1.9.0_netbsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_netbsd_arm64) | 3.7 MiB | `other` |
-| [ugm_1.9.0_openbsd_386](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_386) | 3.3 MiB | `other` |
-| [ugm_1.9.0_openbsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_amd64) | 3.8 MiB | `other` |
-| [ugm_1.9.0_openbsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.9.0/ugm_1.9.0_openbsd_arm64) | 3.7 MiB | `other` |
+| [checksums.txt](https://github.com/ariasmn/ugm/releases/download/v1.10.0/checksums.txt) | 1.0 KiB | `other` |
+| [ugm_1.10.0_freebsd_386](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_freebsd_386) | 3.4 MiB | `other` |
+| [ugm_1.10.0_freebsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_freebsd_amd64) | 3.8 MiB | `other` |
+| [ugm_1.10.0_freebsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_freebsd_arm64) | 3.6 MiB | `other` |
+| [ugm_1.10.0_linux_386](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_linux_386) | 3.5 MiB | `other` |
+| [ugm_1.10.0_linux_amd64](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_linux_amd64) | 3.9 MiB | `native/linux/x64` |
+| [ugm_1.10.0_linux_arm64](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_linux_arm64) | 3.7 MiB | `native/linux/arm64` |
+| [ugm_1.10.0_netbsd_386](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_netbsd_386) | 3.4 MiB | `other` |
+| [ugm_1.10.0_netbsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_netbsd_amd64) | 3.8 MiB | `other` |
+| [ugm_1.10.0_netbsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_netbsd_arm64) | 3.6 MiB | `other` |
+| [ugm_1.10.0_openbsd_386](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_openbsd_386) | 3.4 MiB | `other` |
+| [ugm_1.10.0_openbsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_openbsd_amd64) | 3.8 MiB | `other` |
+| [ugm_1.10.0_openbsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_openbsd_arm64) | 3.6 MiB | `other` |
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/ugm). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/ugm). **2** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `1.9.0` | ✅ latest |
-| Alpine edge | `1.9.0` | ✅ latest |
+| Nix unstable | `1.9.0` | ⚠️ outdated |
+| Alpine edge | `1.10.0` | ✅ latest |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for ugm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:17:44Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:10:19Z._
