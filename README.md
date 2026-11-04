@@ -44,12 +44,12 @@ Total: **786** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-04 | 1 | 3 | 0 | 0 | 0 | 3 |
-| 90d | 2026-08-05 | 1 | 3 | 0 | 0 | 0 | 3 |
-| last180d | 2026-05-07 | 1 | 3 | 0 | 0 | 0 | 3 |
-| 360d | 2025-11-08 | 2 | 3 | 0 | 0 | 0 | 5 |
-| last720d | 2024-11-13 | 4 | 3 | 0 | 0 | 1 | 7 |
+| 30d | 2026-10-05 | 1 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-05 | 1 | 3 | 0 | 0 | 0 | 3 |
+| 90d | 2026-08-06 | 1 | 3 | 0 | 0 | 0 | 3 |
+| last180d | 2026-05-08 | 1 | 3 | 0 | 0 | 0 | 3 |
+| 360d | 2025-11-09 | 2 | 3 | 0 | 0 | 0 | 5 |
+| last720d | 2024-11-14 | 4 | 3 | 0 | 0 | 1 | 7 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Total: **786** lines of code across **18** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/ugm). **2** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/ugm). **3** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for ugm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:54:08Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:28:06Z._
