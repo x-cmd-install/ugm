@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4038816,
       "digest": "sha256:df2b63dbf095ebac5ffe6dc5706aa677102d062f9a1e4c5023ca6a365cca6487",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-11-01T21:31:44Z",
       "updated_at": "2026-11-01T21:31:45Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_linux_amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3866784,
       "digest": "sha256:78a65bf0b36034dad58b5a19416a1f41d031499694e62bb1e191e94b830ae879",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-01T21:31:44Z",
       "updated_at": "2026-11-01T21:31:46Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_linux_arm64"
