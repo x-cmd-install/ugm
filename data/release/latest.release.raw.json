@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3956906,
       "digest": "sha256:6b590438fcd313a2c2e24a149c466cbe1cf3fe6bfa4d908bd32d9c598236f7e4",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-01T21:31:44Z",
       "updated_at": "2026-11-01T21:31:45Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_freebsd_amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3649696,
       "digest": "sha256:92d1c6f21ccf8d943db90bb00a47f6d556ee2dc4871a43abf01a63ea274a7a1d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-01T21:31:44Z",
       "updated_at": "2026-11-01T21:31:45Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_linux_386"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4038816,
       "digest": "sha256:df2b63dbf095ebac5ffe6dc5706aa677102d062f9a1e4c5023ca6a365cca6487",
-      "download_count": 24,
+      "download_count": 27,
       "created_at": "2026-11-01T21:31:44Z",
       "updated_at": "2026-11-01T21:31:45Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_linux_amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3936435,
       "digest": "sha256:e9d167081b32ce471dd3d9ffc13a67f9818da7b15de1f9e55a87dc5e1916b6d7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-01T21:31:44Z",
       "updated_at": "2026-11-01T21:31:45Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_netbsd_amd64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3801371,
       "digest": "sha256:b12107cc5c079b7913119dbc75a7161b7545ba68a004399d70e5a4a688232ca5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-01T21:31:44Z",
       "updated_at": "2026-11-01T21:31:45Z",
       "browser_download_url": "https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_openbsd_arm64"
