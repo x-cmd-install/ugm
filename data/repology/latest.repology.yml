@@ -1,3 +1,26 @@
+- repo: aur
+  srcname: ugm-bin
+  binname: ugm-bin
+  visiblename: ugm-bin
+  version: 1.10.0
+  origversion: 1.10.0-1
+  status: newest
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: ugm
+  visiblename: ugm
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: A terminal based UNIX user and group browser
+  maintainers:
+    - oo-infty@outlook.com
+  licenses:
+    - MIT
 - repo: alpine_3_20
   subrepo: community
   srcname: ugm
@@ -88,29 +111,6 @@
     - kemelzaidan@aur
   licenses:
     - MIT
-- repo: aur
-  srcname: ugm-bin
-  binname: ugm-bin
-  visiblename: ugm-bin
-  version: 1.10.0
-  origversion: 1.10.0-1
-  status: newest
-  summary: A terminal based UNIX user and group browser
-  maintainers:
-    - dominiquini@aur
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: ugm
-  visiblename: ugm
-  version: 1.5.0
-  origversion: null
-  status: outdated
-  summary: A terminal based UNIX user and group browser
-  maintainers:
-    - oo-infty@outlook.com
-  licenses:
-    - MIT
 - repo: nix_stable_24_11
   srcname: ugm
   visiblename: ugm
@@ -158,11 +158,11 @@
 - repo: nix_unstable
   srcname: ugm
   visiblename: ugm
-  version: 1.9.0
+  version: 1.10.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Terminal based UNIX user and group browser
   maintainers:
-    - fallback-mnt-nix@repology
+    - kamadorueda@gmail.com
   licenses:
     - MIT
