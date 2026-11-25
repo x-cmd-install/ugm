@@ -44,12 +44,12 @@ Total: **786** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-25 | 1 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-26 | 1 | 2 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-28 | 1 | 2 | 0 | 0 | 0 | 2 |
-| 360d | 2025-11-29 | 2 | 2 | 0 | 0 | 0 | 4 |
-| last720d | 2024-12-04 | 4 | 2 | 0 | 0 | 0 | 7 |
+| 30d | 2026-10-26 | 1 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-26 | 1 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-27 | 1 | 2 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-29 | 1 | 2 | 0 | 0 | 0 | 2 |
+| 360d | 2025-11-30 | 2 | 2 | 0 | 0 | 0 | 4 |
+| last720d | 2024-12-05 | 4 | 2 | 0 | 0 | 0 | 7 |
 
 ## Release assets
 
@@ -69,15 +69,6 @@ Total: **786** lines of code across **18** files in the top 5 languages.
 | [ugm_1.10.0_openbsd_amd64](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_openbsd_amd64) | 3.8 MiB | `other` |
 | [ugm_1.10.0_openbsd_arm64](https://github.com/ariasmn/ugm/releases/download/v1.10.0/ugm_1.10.0_openbsd_arm64) | 3.6 MiB | `other` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/ugm). **4** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.10.0` | ✅ latest |
-| Alpine edge | `1.10.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for ugm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ugm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +78,4 @@ Install metadata for ugm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:59:34Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:42:03Z._
